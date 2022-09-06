@@ -111,9 +111,6 @@ class Dad():
 class Coat():
     def __init__(self,cent):
         pass
-class Crush(Door):
-    def __init__(self) -> None:
-        super().__init__()
 
 class Bite():
     def body(self,chain,coal,dinner):
